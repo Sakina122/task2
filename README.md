@@ -1,2 +1,2 @@
 # task2
-python task2 numpy,pandas, data visualization,eda
+C:\Users\lenovo\OneDrive\Desktop\task2
